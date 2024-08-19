@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1126811298",
+    "project_id": "b2c-online-5d49f",
+    "storage_bucket": "b2c-online-5d49f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1126811298:android:efb1ae89f6f7dd18d6f9fb",
+        "android_client_info": {
+          "package_name": "com.b2conline.b2conline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1126811298-s9o05ija45s76u2i1ffdgu4heg37agr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcZnii3LIuF_ZtcS4P-_mu8dHQQiKUALc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1126811298-s9o05ija45s76u2i1ffdgu4heg37agr6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1126811298-sbqe1r76gn8nbclqquckvfkjfgb7han0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.b2conline.b2conline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
